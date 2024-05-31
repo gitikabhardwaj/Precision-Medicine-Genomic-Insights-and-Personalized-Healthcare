@@ -15,7 +15,7 @@ pip install numpy pandas scikit-learn matplotlib seaborn biopython
 ```
 
 #### Project Structure
-- **/data/**: Includes sample datasets used for analysis and modeling. Instructions for accessing larger, real-world datasets are provided.
+- **/data/**: Includes sample dataset used for analysis and modeling. 
 - **/scripts/**: Contains Python scripts for data processing, machine learning modeling, and data visualization.
 - **/results/**: Holds output files and visualizations generated from the scripts.
 
